@@ -21,13 +21,6 @@
 
 （担当言語の参加者のリポジトリーに置き換える。）
 
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
-  * [XXX](https://github.com/XXX/XXX-sezemi-2014-readable-code-2)
+  * [charlingual](https://github.com/charlingual/charlingual-sezemi-2014-readable-code-2)
+  * [ryosukee](https://github.com/ryosukee/ryosukee-sezemi-2014-readable-code-2)
+  * [iwamoto22](https://github.com/iwamoto22/iwamoto22-sezemi-2014-readable-code-2)
