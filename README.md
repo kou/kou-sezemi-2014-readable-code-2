@@ -14,7 +14,7 @@
   * Java
   * Ruby
   * C
-  * Python
+  * Python <- これ
   * PHP
 
 ## リポジトリー一覧
